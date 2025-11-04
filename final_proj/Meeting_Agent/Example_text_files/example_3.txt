@@ -1,0 +1,7 @@
+Sample meeting text for file 3
+
+Alex: Marketing sync today — how’s the campaign rollout going?
+Jordan: Social posts are scheduled, but email templates need review.
+Taylor: I’ll edit the copy and send it to Alex for approval.
+Alex: Approvals must be done by Thursday so we can launch Monday.
+Jordan: Got it, I’ll handle scheduling once the copy’s finalized.

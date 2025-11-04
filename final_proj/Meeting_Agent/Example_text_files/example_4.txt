@@ -1,0 +1,7 @@
+Sample meeting text for file 4
+
+Alex: Let’s talk feature backlog for Q2.
+Jordan: The notification system is top priority.
+Taylor: I’ll start UX wireframes this week.
+Alex: Perfect. Jordan, coordinate API design by next Wednesday.
+Jordan: Will do. We’ll aim for internal testing in two weeks.

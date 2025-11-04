@@ -1,0 +1,7 @@
+Sample meeting text for file 6
+
+Alex: Morning check-in. How’s remote onboarding going?
+Jordan: Pretty smooth, though access requests are slow.
+Taylor: I’ll talk to IT and get them expedited.
+Alex: Thanks. We’ll survey new hires next week.
+Jordan: I’ll draft the survey questions.

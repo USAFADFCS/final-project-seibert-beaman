@@ -1,0 +1,8 @@
+Alex: Alright team, quick check-in on Sprint 3. How are we doing on the authentication feature?
+Jordan: The backend is complete and ready for integration.
+Taylor: I’ve started connecting it to the frontend, but we’re hitting some token refresh issues.
+Alex: Okay, make sure to log those errors. Can you get them fixed by Thursday?
+Taylor: Yeah, that should be doable.
+Jordan: I’ll help debug if needed, but I’m moving to the new analytics task on Friday.
+Alex: Perfect. Once authentication is stable, we’ll merge into the main branch and start QA next week.
+Taylor: Got it. I’ll push the latest updates by tomorrow morning.

@@ -1,0 +1,7 @@
+Sample meeting text for file 11
+
+Alex: Security check-in. Any alerts this week?
+Jordan: We found outdated dependencies in the API.
+Taylor: I’ll patch them and rerun vulnerability scans.
+Alex: Let’s close that by Wednesday.
+Jordan: I’ll verify and update the risk tracker.

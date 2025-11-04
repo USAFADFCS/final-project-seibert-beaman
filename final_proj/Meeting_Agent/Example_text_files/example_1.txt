@@ -1,0 +1,8 @@
+Sample meeting text for file 1
+
+Alex: Okay team, sprint planning for next week. Any blockers from Sprint 5?
+Jordan: Deployment pipeline is unstable after the last merge.
+Taylor: I’ll fix the Jenkins config today.
+Alex: Great, goal is to have stability tests done by Wednesday.
+Jordan: Once that’s stable, I’ll deploy to staging.
+Taylor: I’ll also update the pipeline documentation.

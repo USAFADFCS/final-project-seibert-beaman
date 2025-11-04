@@ -1,0 +1,7 @@
+Sample meeting text for file 5
+
+Alex: Quick QA standup — any blockers?
+Jordan: We still need test data for the new login module.
+Taylor: I’ll generate mock users this afternoon.
+Alex: Excellent. Let’s wrap up regression testing by Friday.
+Jordan: I’ll verify bug fixes after the mock data’s ready.

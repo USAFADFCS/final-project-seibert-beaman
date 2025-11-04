@@ -1,0 +1,7 @@
+Sample meeting text for file 2
+
+Alex: Welcome to the design review. We need final feedback on the dashboard layout.
+Taylor: The color palette is too saturated; I’ll tone it down.
+Jordan: We should move the analytics widget higher.
+Alex: Agreed. Let’s finalize these edits by Friday.
+Taylor: I’ll share the updated mockups tomorrow morning.

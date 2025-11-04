@@ -1,0 +1,7 @@
+Sample meeting text for file 9
+
+Alex: Hiring sync—how many interviews this week?
+Jordan: Three completed, one no-show.
+Taylor: I’ll reschedule the no-show for Thursday.
+Alex: Make sure feedback forms are in by Friday.
+Jordan: I’ll compile all scores by then.

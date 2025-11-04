@@ -1,0 +1,8 @@
+Sample meeting text for file 10
+
+Alex: Release 1.2 briefing. Everything merged?
+Jordan: All branches merged except the API docs.
+Taylor: I’ll finish docs by tonight.
+Alex: Great. QA runs tomorrow morning.
+Jordan: I’ll tag the release once QA passes.
+Taylor: Let’s announce the release Monday.
