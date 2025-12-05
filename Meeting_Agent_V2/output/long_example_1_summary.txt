@@ -1,0 +1,34 @@
+--------------------------------------------------
+ MEETING SUMMARY REPORT 
+--------------------------------------------------
+
+=== Metadata ===
+- source_type: text
+- participants: ['Alex', 'Chris', 'Jordan', 'Morgan', 'Sam', 'Taylor']
+- num_utterances: 60
+
+=== Overall Summary ===
+- The team is getting ready for a client run-through of the new tool.
+- The team is working on the Q&A prep for the demo.
+- They are also working on deploying the tool to the client.
+- The final version of the tool is expected to be available by the end of the month.
+- It will be available for download on the GitHub repository at GitHub.
+
+- Chris: First round was clean.
+- Second round had latency spikes around 80% load.
+- I think queue depth is the issue.
+- I’ll retune it and rerun the tests by Monday.
+- Sam: If you have screenshots from the test dashboard, throw them in the shared drive.
+
+=== Action Items ===
+- Chris: I’ll retune it and rerun the tests by Monday.
+- Jordan: I’ll have the finalized script for both rehearsals.
+- Jordan: I’ll put comments in the script.
+- Jordan: I’ll smooth everything out. I’ll have the full demo script done by close of business today.
+- Jordan: I’ll take the data provenance slide and finish it by Monday EOD.
+- Morgan: I’ll send mine today. Or… like… for sure by tomorrow.
+- Sam: I’ll bring the design mockups in case we want to adjust anything live.
+- Sam: I’ll put a draft together after lunch.
+- Taylor: I’ll have the final numbers to you by 3 pm today, I promise.
+- Taylor: I’ll write the interpretability notes—we ran SHAP last sprint. I’ll send that to you by Monday at noon.
+- Team members discuss what they need to finish before Monday's client run-through. Team members also discuss Q&A prep, deployment, and client presentation. Team member: "I’m just cleaning up some weird outliers in the nighttime footage. I’ll have the final numbers to you by 3 pm today"
