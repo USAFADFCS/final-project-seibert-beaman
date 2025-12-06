@@ -1,0 +1,58 @@
+MEETING QUALITY CHECK
+---------------------
+Source: input/long_example_1.txt
+Participants: Alex, Chris, Jordan, Morgan, Sam, Taylor
+Utterances: 60
+
+[Commitment Lines in Transcript]
+- Detected commitment-like lines: 11
+  * Taylor: Yeah, that’s on me—pipeline finished overnight. I’m just cleaning up some weird outliers in the nighttime footage. I’ll have the final numbers to you by 3 pm today, I promise.
+  * Jordan: Mostly tightening the script. The transitions still feel clunky, but once I drop in the final numbers, I’ll smooth everything out. I’ll have the full demo script done by close of business today.
+  * Jordan: Yeah, I’ll put comments in the script.
+  * Taylor: I can handle that. I’ll draft three blurbs—model drift, low-light performance, and data sparsity. I’ll send those to you by 11 am tomorrow.
+  * Sam: Yeah, just let me know where you want me. I’ll bring the design mockups in case we want to adjust anything live.
+  * Jordan: And I’ll have the finalized script for both rehearsals.
+  * Morgan: Same. I’ll send mine today. Or… like… for sure by tomorrow.
+  * Taylor: I’ll write the interpretability notes—we ran SHAP last sprint. I’ll send that to you by Monday at noon.
+  * Jordan: Perfect. I’ll take the data provenance slide and finish it by Monday EOD.
+  * Sam: Cool, I’ll put a draft together after lunch.
+  * Chris: First round was clean. Second round had latency spikes around 80% load. I think queue depth is the issue. I’ll retune it and rerun the tests by Monday.
+
+[Action Item Detection]
+- Action items in ctx.action_items: 11
+- Heuristic action recall (actions / commitments): 1.00
+
+[Action Item Quality]
+- Strong actions (explicit I'll / I will / we'll): 11
+  * - Chris: I’ll retune it and rerun the tests by Monday.
+  * - Jordan: I’ll have the finalized script for both rehearsals.
+  * - Jordan: I’ll put comments in the script.
+  * - Jordan: I’ll smooth everything out. I’ll have the full demo script done by close of business today.
+  * - Jordan: I’ll take the data provenance slide and finish it by Monday EOD.
+  * - Morgan: I’ll send mine today. Or… like… for sure by tomorrow.
+  * - Sam: I’ll bring the design mockups in case we want to adjust anything live.
+  * - Sam: I’ll put a draft together after lunch.
+  * - Taylor: I’ll have the final numbers to you by 3 pm today, I promise.
+  * - Taylor: I’ll write the interpretability notes—we ran SHAP last sprint. I’ll send that to you by Monday at noon.
+  * - Team members discuss what they need to finish before Monday's client run-through. Team members also discuss Q&A prep, deployment, and client presentation. Team member: "I’m just cleaning up some weird outliers in the nighttime footage. I’ll have the final numbers to you by 3 pm today"
+- Weak actions (no explicit commitment phrase): 0
+
+[Summary Hallucination Check]
+- Known hallucination suspects found in summary: download, end of the month, github, repository, version
+- Words present in summary but not in transcript (top 15):
+  * also
+  * available
+  * deploying
+  * download
+  * expected
+  * getting
+  * github
+  * month
+  * repository
+  * they
+  * tool
+  * version
+
+[Overall Heuristic Verdict]
+- ✅ Action items detected for some commitments.
+- ⚠️ Summary may contain hallucinated tool/release details.

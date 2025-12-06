@@ -15,6 +15,7 @@ from agents import (
 )
 from models import MeetingContext
 from config import INPUT_DIR, AUDIO_EXTENSIONS
+from quality import write_quality_report
 
 
 def main():
@@ -73,6 +74,7 @@ def main():
     ctx = MeetingContext(source_path=path)
     ctx = orchestrator.run(ctx)
     write_output(ctx)
+    write_quality_report(ctx)
 
 
 if __name__ == "__main__":
